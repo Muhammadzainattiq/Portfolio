@@ -223,7 +223,7 @@ export default function AIPortfolio() {
       name: "Backend API Development",
       level: 94,
       icon: Server,
-      description: "RESTful and GraphQL API design and implementation",
+      description: "RESTful and GraphQL APIs design and implementation",
       technologies: ["REST", "GraphQL", "WebSocket", "API Design"],
     },
 
